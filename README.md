@@ -2,7 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mreyhandwi&color=brightgreen)
 
-![Profile Banner](https://github.com/agreytosira/agreytosira/assets/44093021/ffc7de24-3a4f-4521-904f-f5a6aa238199)
+<img width="1400" height="350" alt="Frame 57" src="https://github.com/user-attachments/assets/333f6007-1015-43fe-89a0-31dc36d6a722" />
+
 
 ### 👨🏻‍💻 About Me
 My name is **M. Reyhan Dwi Amberta**, a passionate **Back-End Web Developer** with a deep interest in building efficient, scalable, and secure web applications. I specialize in working with modern backend technologies and have hands-on experience designing robust API architectures, managing databases, and optimizing server performance.
@@ -36,9 +37,9 @@ With over 3 years of experience in web development, I enjoy solving technical pr
 
 ### 🌐 My Website
 
-[Portfolio] : <a href="https://wepsspros.github.io/git-reyhan-portfolio/">www.mreyhandwi.dev</a><br/>
-[amoyraenterprise] : <a href="https://amoyraestore.com/">blog.mreyhandwi.dev</a><br/>
-[Simayang]  : <a href="https://simayang.tirtamayang.com">blog.mreyhandwi.dev</a><br/>
+[Portfolio] : <a href="https://wepsspros.github.io/git-reyhan-portfolio/">https://wepsspros.github.io/git-reyhan-portfolio/</a><br/>
+[amoyraenterprise] : <a href="https://amoyraestore.com/">https://amoyraestore.com/</a><br/>
+[Simayang]  : <a href="https://simayang.tirtamayang.com">https://simayang.tirtamayang.com/</a><br/>
 
 ---
 
