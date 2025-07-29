@@ -30,13 +30,13 @@ With over 3 years of experience in web development, I enjoy solving technical pr
 
 ### 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/-mreyhandwi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mreyhandwi@gmail.com)
+[![Email](https://img.shields.io/badge/-reyhandwiambrta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mreyhandwi@gmail.com)
 
 ---
 
 ### 🌐 My Website
 
-[Portfolio] : <a href="https://www.mreyhandwi.dev">www.mreyhandwi.dev</a><br/>
+[Portfolio] : <a href="[https://www.mreyhandwi.dev](https://wepsspros.github.io/git-reyhan-portfolio/)">www.mreyhandwi.dev</a><br/>
 [Blog] : <a href="https://blog.mreyhandwi.dev">blog.mreyhandwi.dev</a><br/>
 
 ---
