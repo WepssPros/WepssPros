@@ -36,8 +36,9 @@ With over 3 years of experience in web development, I enjoy solving technical pr
 
 ### 🌐 My Website
 
-[Portfolio] : <a href="[https://www.mreyhandwi.dev](https://wepsspros.github.io/git-reyhan-portfolio/)">www.mreyhandwi.dev</a><br/>
-[Blog] : <a href="https://blog.mreyhandwi.dev">blog.mreyhandwi.dev</a><br/>
+[Portfolio] : <a href="https://wepsspros.github.io/git-reyhan-portfolio/">www.mreyhandwi.dev</a><br/>
+[amoyraenterprise] : <a href="https://amoyraestore.com/">blog.mreyhandwi.dev</a><br/>
+[Simayang]  : <a href="https://simayang.tirtamayang.com">blog.mreyhandwi.dev</a><br/>
 
 ---
 
