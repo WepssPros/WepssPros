@@ -20,6 +20,7 @@ With over 3 years of experience in web development, I enjoy solving technical pr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Database Master-Slave](https://img.shields.io/badge/DB--Architecture-Master--%26--Slave-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL Replication](https://img.shields.io/badge/MySQL--Replication-Master↔Slave-orange?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
