@@ -44,6 +44,6 @@ With over 3 years of experience in web development, I enjoy solving technical pr
 ### 📊 GitHub Stats
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mreyhandwi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mreyhandwi&layout=compact&langs_count=8&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WepssPros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WepssPros&layout=compact&langs_count=8&theme=algolia"/>
 </p>
