@@ -2,7 +2,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mreyhandwi&color=brightgreen)
 
-<img width="1400" height="350" alt="Frame 57" src="https://github.com/user-attachments/assets/333f6007-1015-43fe-89a0-31dc36d6a722" />
+<img width="1400" height="350" alt="Frame 57" src="https://github.com/user-attachments/assets/afa19468-1d32-4c3c-a794-151b0a86165f" />
+
 
 
 ### 👨🏻‍💻 About Me
